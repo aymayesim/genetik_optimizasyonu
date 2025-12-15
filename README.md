@@ -164,6 +164,20 @@ Genetik algoritma çalıştırıldığında elde edilen en iyi çözüm aşağı
 - **Pigment B (x2): %0**
 - **Maksimum renk kalitesi skoru: 500**
 
+## ▶️ Kurulum ve Çalıştırma Yönergeleri
+
+Bu proje Python ve Jupyter Notebook ortamında çalıştırılmak üzere hazırlanmıştır.
+
+### Gerekli Yazılımlar
+- Python 3.x
+- Jupyter Notebook
+- Matplotlib
+
+### Gerekli Kütüphanelerin Kurulumu
+Aşağıdaki komut ile gerekli kütüphaneler kurulabilir:
+
+```bash
+pip install matplotlib
 
 
 ## 🧠 Sonuç ve Değerlendirme
